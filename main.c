@@ -4,6 +4,8 @@ main()
 {
 	addition();
 reverse();
+
 fibo();
+difference();
 }
 
